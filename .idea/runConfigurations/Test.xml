@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Test" type="PIT" factoryName="PIT Runner" editBeforeRun="true" singleton="false" REPORT_DIR="$PROJECT_DIR$/target/report" SOURCE_DIRS="$PROJECT_DIR$/src" TARGET_CLASSES="org.example.*" TARGET_TESTS="*" otherParams="--outputFormats XML,HTML">
+    <module name="MutationTesting" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
